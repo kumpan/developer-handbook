@@ -22,12 +22,12 @@ If you need any licenses just ask.
 - Advanced Custom Fields for WordPress Developers. We got a pro license.
 
 ## Good practice
-- Optimera bilder
+- Optimera bilder (There are many plugins that help optimize images on live site aswell)
 - Stänga av kommentarer
 - Google analytics
 - Google site verification file 
 - Utveckling: 301 directs i htaccess om det redan finns en sida
 - Utveckling: minifiering js, minifiering css, minifiering bilder
 - Utveckling: koda rätt för seo (TODO ADD LINK)
-- WP admin: Vid lansering kontrollera så att denna inställning inte är på: "Inställningar/Läsa/Be sökmotorer att inte indexera denna webbplats"
-- Site map
+- WP admin: Vid lansering kontrollera så att denna inställning *inte* är på: "Inställningar/Läsa/Be sökmotorer att inte indexera denna webbplats"
+- Site map (There are plugins that help create sitemaps)
