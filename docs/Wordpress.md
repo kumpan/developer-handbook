@@ -3,9 +3,7 @@
 Here are some general tips and tricks for Wordpress and all the plugins you need.
 If you need any licenses just ask.
 
-[OSX tips](https://github.com/nikitavoloboev/my-mac-os#readme)
-
-## Commonly used plugins:
+## Commonly used plugins
 
 #### [Stop XML-RPC Attack](https://wordpress.org/plugins/stop-xmlrpc-attack/) - Stop XML-RPC Attack
 
@@ -19,9 +17,9 @@ If you need any licenses just ask.
 
 - Search engine optimization plugin
 
-#### [ACF](https://www.advancedcustomfields.com/) - ACF, Advanced Custom Fields
+#### [ACF](https://www.advancedcustomfields.com/) - ACF, Advanced Custom Fields 
 
-- Advanced Custom Fields for WordPress Developers.
+- Advanced Custom Fields for WordPress Developers. We got a pro license.
 
 ## Good practice
 - Optimera bilder
@@ -31,6 +29,5 @@ If you need any licenses just ask.
 - Utveckling: 301 directs i htaccess om det redan finns en sida
 - Utveckling: minifiering js, minifiering css, minifiering bilder
 - Utveckling: koda rätt för seo (TODO ADD LINK)
-- WP admin: Vid lansering kontrollera så att denna inställning inte är på: Inställningar/Läsa/ Be sökmotorer att inte indexera denna webbplats
+- WP admin: Vid lansering kontrollera så att denna inställning inte är på: "Inställningar/Läsa/Be sökmotorer att inte indexera denna webbplats"
 - Site map
-- ACF
