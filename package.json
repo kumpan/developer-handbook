@@ -1,0 +1,26 @@
+{
+  "name": "developer-handbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumpan/developer-handbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumpan/developer-handbook/issues"
+  },
+  "homepage": "https://github.com/kumpan/developer-handbook#readme",
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.13"
+  }
+}
