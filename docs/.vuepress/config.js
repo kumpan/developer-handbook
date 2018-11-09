@@ -38,7 +38,8 @@ module.exports = {
           ["/Trello.html", "Trello"],
           ["/Toggl.html", "Toggl"],
           ["/1password.html", "1Password"],
-          ["/Dropbox.html", "Dropbox"]
+          ["/Dropbox.html", "Dropbox"],
+          ["/Browserstack.html", "Browserstack"]
         ]
       }
     ],
