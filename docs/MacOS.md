@@ -53,6 +53,7 @@ If you need any licenses just ask.
 
 - [Sourcetree](https://www.sourcetreeapp.com/)
 - [Tower](https://www.git-tower.com/)
+- [GitHub Desktop](https://desktop.github.com/)
 
 ## Terminal stuff
 
