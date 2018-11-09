@@ -31,3 +31,15 @@ If you need any licenses just ask.
 - Utveckling: koda rätt för seo (TODO ADD LINK)
 - WP admin: Vid lansering kontrollera så att denna inställning *inte* är på: "Inställningar/Läsa/Be sökmotorer att inte indexera denna webbplats"
 - Site map (There are plugins that help create sitemaps)
+
+## Good snippets
+- Add svg support for wordpress. (https://www.leighton.com/blog/enable-upload-of-svg-to-wordpress-media-library/)
+Add this code to functions.php
+```php
+function custom_mtypes( $m ){
+  $m['svg'] = 'image/svg+xml';
+  $m['svgz'] = 'image/svg+xml';
+  return $m;
+}
+add_filter( 'upload_mimes', 'custom_mtypes' );
+```
