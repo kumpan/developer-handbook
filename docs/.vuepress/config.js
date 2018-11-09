@@ -11,6 +11,15 @@ module.exports = {
         children: [["/MacOS.html", "macOS"], ["/Windows.html", "Windows"]]
       },
       {
+        title: "Project management",
+        collapsable: false,
+        children: [
+          ["/blocket-integration.html", "Blocket Integrations"],
+          ["/wordpress-project.html", "Wordpress site"],
+          ["/nothing-todo.html", "I have nothing todo"]
+        ]
+      },
+      {
         title: "Code",
         collapsable: false,
         children: [
