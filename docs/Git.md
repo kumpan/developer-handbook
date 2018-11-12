@@ -4,7 +4,7 @@ Bookmark this page: Flight rules for git [git-flight-rules](https://github.com/k
 
 Read this: [Git tutorial](https://www.atlassian.com/git/tutorials)
 
-We use [Github](https://github.com/kumpan) for all our internal development.
+We use [Github](https://github.com/kumpan) for all our internal development. Here is a cheat sheet: [Git cheat sheet] (https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
 Follow these 3 rules:
 
