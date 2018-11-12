@@ -27,7 +27,8 @@ module.exports = {
           ["/Git.html", "Git"],
           ["/ESLint.html", "ESLint"],
           ["/Wordpress.html", "Wordpress"],
-          ["/testing.html", "Testing"]
+          ["/testing.html", "Testing"],
+          ["/SEO.html", "SEO"]
         ]
       },
       {
