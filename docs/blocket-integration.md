@@ -1,6 +1,6 @@
-# Project management for blocket integrations
+# Project management for Blocket integrations
 
-## A order is recieved
+## An order is recieved
 
 ## UX design
 
