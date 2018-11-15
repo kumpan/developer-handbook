@@ -35,7 +35,7 @@ If you need any licenses just ask.
 ## Good snippets
 - Adjustments to default Bootstrap grid to fit Kumpan's 8pt grid designs.
 Add this code to _variables.scss:
-```
+```css
 $container-max-widths: (
   sm: 576px,
   md: 720px,
@@ -48,7 +48,7 @@ $grid-gutter-width: 32px !default;
 
 - Add svg support for wordpress. (https://www.leighton.com/blog/enable-upload-of-svg-to-wordpress-media-library/)
 Add this code to functions.php
-```css
+```php
 function custom_mtypes( $m ){
   $m['svg'] = 'image/svg+xml';
   $m['svgz'] = 'image/svg+xml';
