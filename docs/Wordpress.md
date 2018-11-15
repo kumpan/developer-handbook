@@ -25,7 +25,7 @@ If you need any licenses just ask.
 - Optimera bilder (There are many plugins that help optimize images on live site aswell)
 - Stänga av kommentarer
 - Google analytics
-- Google site verification file 
+- Google site verification file
 - Utveckling: 301 directs i htaccess om det redan finns en sida
 - Utveckling: minifiering js, minifiering css, minifiering bilder
 - Utveckling: koda rätt för seo (TODO ADD LINK)
@@ -33,6 +33,19 @@ If you need any licenses just ask.
 - Site map (There are plugins that help create sitemaps)
 
 ## Good snippets
+- Adjustments to default Bootstrap grid to fit Kumpan's 8pt grid designs.
+Add this code to _variables.scss:
+```css
+$container-max-widths: (
+  sm: 576px,
+  md: 720px,
+  lg: 960px,
+  xl: 1168px
+) !default;
+
+$grid-gutter-width: 32px !default;
+```
+
 - Add svg support for wordpress. (https://www.leighton.com/blog/enable-upload-of-svg-to-wordpress-media-library/)
 Add this code to functions.php
 ```php
