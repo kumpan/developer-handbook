@@ -31,6 +31,8 @@ If you need any licenses just ask.
 - Utveckling: koda rätt för seo (TODO ADD LINK)
 - WP admin: Vid lansering kontrollera så att denna inställning *inte* är på: "Inställningar/Läsa/Be sökmotorer att inte indexera denna webbplats"
 - Site map (There are plugins that help create sitemaps)
+- We should try to always have the pages run https. (SSL & letsencrypt)
+- When page is done, make sure that chrome inspector doesnt have any console log errors.
 
 ## Good snippets
 - Adjustments to default Bootstrap grid to fit Kumpan's 8pt grid designs.
