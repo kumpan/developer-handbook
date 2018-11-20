@@ -31,8 +31,23 @@ If you need any licenses just ask.
 - Development: SEO (TODO ADD LINK)
 - WP admin: Before deploying, make sure this setting is *not* enabled: "Settings/Reading/Discourage search engines from indexing this site"
 - Site map (There are plugins that help create sitemaps)
+- We should try to always have the pages run https. (SSL & letsencrypt)
+- When page is done, make sure that chrome inspector doesnt have any console log errors.
 
 ## Good snippets
+- Adjustments to default Bootstrap grid to fit Kumpan's 8pt grid designs.
+Add this code to _variables.scss:
+```css
+$container-max-widths: (
+  sm: 576px,
+  md: 720px,
+  lg: 960px,
+  xl: 1168px
+) !default;
+
+$grid-gutter-width: 32px !default;
+```
+
 - Add svg support for wordpress. (https://www.leighton.com/blog/enable-upload-of-svg-to-wordpress-media-library/)
 Add this code to functions.php
 ```php
