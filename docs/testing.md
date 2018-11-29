@@ -63,3 +63,4 @@ Functional tests are sometimes called end-to-end tests because they test the ent
 ### I want to know more!
 
 [More in depth](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
+[Unit testing in Gatsby](https://www.gatsbyjs.org/docs/unit-testing/?no-cache=1)
