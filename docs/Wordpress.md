@@ -31,6 +31,7 @@ If you need any licenses just ask.
 - Development: SEO (TODO ADD LINK)
 - WP admin: Before deploying, make sure this setting is *not* enabled: "Settings/Reading/Discourage search engines from indexing this site"
 - Site map (There are plugins that help create sitemaps)
+- robots.txt file
 - We should try to always have the pages run https. (SSL & letsencrypt)
 - When page is done, make sure that chrome inspector doesnt have any console log errors.
 
