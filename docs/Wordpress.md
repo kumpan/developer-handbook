@@ -34,7 +34,7 @@ If you need any licenses just ask.
 - robots.txt file
 - We should try to always have the pages run https. (SSL & letsencrypt)
 - When page is done, make sure that chrome inspector doesnt have any console log errors.
-- Run the site through https://developers.google.com/speed/pagespeed/insights/ and fix the problems
+- Run the site through https://developers.google.com/speed/pagespeed/insights/ or Audit in dev tools (https://developers.google.com/web/tools/lighthouse/#devtools) and fix the problems
 
 
 ## Good snippets
