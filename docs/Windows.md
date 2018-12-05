@@ -38,7 +38,7 @@ Here are some general tips and tricks for Windows and all the applications you n
 
 #### Code Editors
 
-- [Visaul Studio](https://visualstudio.microsoft.com/vs/)
+- [Visual Studio](https://visualstudio.microsoft.com/vs/)
 - [VSCode](https://code.visualstudio.com/)
 - [Atom](https://atom.io/)
 - [Sublime Text](https://www.sublimetext.com/)
