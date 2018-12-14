@@ -21,6 +21,15 @@ If you need any licenses just ask.
 
 - Advanced Custom Fields for WordPress Developers. We got a pro license.
 
+#### [ACF, Advanced Custom Fields](https://www.advancedcustomfields.com/)
+
+- Advanced Custom Fields for WordPress Developers. We got a pro license.
+
+#### [Wordfence](https://wordpress.org/plugins/wordfence/)
+
+- Wordfence for Wordpress firewall and security scanner
+
+
 ## Good practice
 - Optimize images (There are many plugins that help optimize images on live site as well)
 - Disable comments
