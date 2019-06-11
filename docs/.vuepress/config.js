@@ -16,7 +16,8 @@ module.exports = {
         children: [
           ["/blocket-integration.html", "Blocket Integrations"],
           ["/wordpress-project.html", "Wordpress site"],
-          ["/nothing-todo.html", "I have nothing todo"]
+          ["/nothing-todo.html", "I have nothing todo"],
+          ["/dropbox.html", "How We Organize Files"]
         ]
       },
       {
@@ -38,7 +39,6 @@ module.exports = {
           ["/Trello.html", "Trello"],
           ["/Toggl.html", "Toggl"],
           ["/1password.html", "1Password"],
-          ["/Dropbox.html", "Dropbox"],
           ["/Browserstack.html", "Browserstack"]
         ]
       }
