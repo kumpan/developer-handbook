@@ -1,6 +1,6 @@
-# How We Organize Files
+# How we organize files
 
-## Client-Based File Organization
+## Client-based file organization
 
 The way we sort files is based clients and typically looks like **The Client** → **Project Type** → **The Date** → **Project Instance**.
 
@@ -12,33 +12,29 @@ The way we sort files is based clients and typically looks like **The Client** �
 
 **Project Instance**: for most projects there are more than one deliverable, this is how we separate them.
 
-
-
 ## Common folders
 
 Inside each Project Instance, we will often find multiple folders. These folders are usually:
 
-### _assets
+### \_assets
 
 Assets for typically for backgrounds, images, icons etc.
 
-### _delivery
+### \_delivery
 
 Delivery is intended for the final, proofed file for the client.
 
-### _material specification
+### \_material specification
 
 Material Specification is intended for, well, you guessed it.
 
-### _misc
+### \_misc
 
 This is where most 'junk' end up. It could contain archived & old files as well as tests.
 
-### _proof
+### \_proof
 
 This is where we put files that are being/to be proofed by clients. In this folder we mark each round sent to a client, so we know which revision we're currently on.
-
-
 
 ## Things to consider
 

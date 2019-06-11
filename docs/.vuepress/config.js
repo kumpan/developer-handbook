@@ -8,17 +8,17 @@ module.exports = {
       {
         title: "General setup",
         collapsable: false,
-        children: [["/MacOS.html", "macOS"], ["/Windows.html", "Windows"]]
+        children: [["/MacOS.html", "macOS"], ["/Windows.html", "Windows"]],
       },
       {
         title: "Project management",
         collapsable: false,
         children: [
-          ["/blocket-integration.html", "Blocket Integrations"],
-          ["/wordpress-project.html", "Wordpress site"],
-          ["/nothing-todo.html", "I have nothing todo"],
-          ["/dropbox.html", "How We Organize Files"]
-        ]
+          ["/blocket-integration.html", "Blocket integrations"],
+          ["/wordpress-project.html", "WordPress sites"],
+          ["/nothing-todo.html", "I have nothing to do!"],
+          ["/Dropbox.html", "How we organize files"],
+        ],
       },
       {
         title: "Code",
@@ -27,10 +27,10 @@ module.exports = {
           ["/Codeguidelines.html", "Code guidelines"],
           ["/Git.html", "Git"],
           ["/ESLint.html", "ESLint"],
-          ["/Wordpress.html", "Wordpress"],
+          ["/Wordpress.html", "WordPress"],
           ["/testing.html", "Testing"],
-          ["/SEO.html", "SEO"]
-        ]
+          ["/SEO.html", "SEO"],
+        ],
       },
       {
         title: "Tools we use",
@@ -39,13 +39,13 @@ module.exports = {
           ["/Trello.html", "Trello"],
           ["/Toggl.html", "Toggl"],
           ["/1password.html", "1Password"],
-          ["/Browserstack.html", "Browserstack"]
-        ]
-      }
+          ["/Browserstack.html", "Browserstack"],
+        ],
+      },
     ],
     repo: "kumpan/developer-handbook",
     docsDir: "docs",
     editLinks: true,
-    editLinkText: "Help us improve this page!"
-  }
+    editLinkText: "Help us improve this page!",
+  },
 };
