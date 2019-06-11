@@ -17,6 +17,7 @@ module.exports = {
           ["/blocket-integration.html", "Blocket Integrations"],
           ["/wordpress-project.html", "Wordpress site"],
           ["/nothing-todo.html", "I have nothing todo"]
+          ["/dropbox.html", "How We Organize Files"]
         ]
       },
       {
