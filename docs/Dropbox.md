@@ -2,15 +2,15 @@
 
 ## Client-based file organization
 
-The way we sort files is based clients and typically looks like **The Client** → **Project Type** → **The Date** → **Project Instance**.
+The way we sort files is based in the clients and typically looks like **The Client** → **Project Type** → **The Date** → **Project Instance**.
 
-**The Client**: this is pretty self-explanatory, this is the name of the client that we will charge for the project deliverables.
+**The Client**:this is the name of the client we are billing. In some cases we do work for a client through, eg. Blocket, in this case the Dropbox structure could be **Blocket** → **Nordea** → **15/10/19** → **Delivery**
 
-**Project Type**: for bigger clients things get crowded fast, so we sort orders into sub-categories, eg. print, tv, web etc. This is not used for every project, just the biggies.
+**Project Type**: for bigger clients things get crowded fast, so we sort orders into sub-categories, eg. print, tv, web etc. This isn't needed for every project, just the biggies.
 
-**The Date**: the date the project was started.
+**The Date**: the date the project was started. Please use YY-MM-DD as date format. This way the newest will always be at the bottom. If you're on mac, please don't use '/', poor windows users won't be able to see these folders.
 
-**Project Instance**: for most projects there are more than one deliverable, this is how we separate them.
+**Project Instance**: for most projects there are more than one deliverable, this is how we separate them. Eg. Banner, web, TV and so on.
 
 ## Common folders
 
